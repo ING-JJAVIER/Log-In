@@ -1,10 +1,10 @@
 import React from 'react'
-import Login from './login/page'
+import Dashboard from './dashboard/page'
 
 export default function Home() {
   return (
     <div>
-      <Login/>
+      <Dashboard/>
     </div>
   )
 }
