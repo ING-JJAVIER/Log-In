@@ -8,7 +8,7 @@ export default function Aside() {
                 <Link href="/dashboard">
                     <li className="text-white text-xl ms-8 hover:bg-gray-400 rounded-xl w-32 p-2">Dashboard</li>
                 </Link>
-                <Link href="/usuarios">
+                <Link href="/users">
                     <li className="text-white text-xl ms-8 hover:bg-gray-400 p-2 rounded-xl w-32">Usuarios</li>
                 </Link>
             </ul>
